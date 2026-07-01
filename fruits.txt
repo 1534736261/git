@@ -2,3 +2,5 @@ banana
 apple
 
 苹果
+
+西瓜
